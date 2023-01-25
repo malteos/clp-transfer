@@ -1,0 +1,17 @@
+jupyter
+tqdm
+fire
+requests
+matplotlib
+scikit-learn
+
+# for OPT model >= 4.20.1 (updated)
+transformers==4.20.1
+
+# Bugfix for https://github.com/huggingface/datasets/issues/3310
+pyarrow==6.0.1
+
+# WECHSEL
+fasttext==0.9.2
+nltk>=3.6.5
+gensim>=4.1.2
