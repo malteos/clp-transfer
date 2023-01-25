@@ -12,10 +12,10 @@ We introduce a cross-lingual and progressive transfer learning approach, called 
 
 | **Model**         | **Parameters** |
 |-------------------|---------------:|
-| `[bloom-6b4-clp-german](https://huggingface.co/malteos/bloom-6b4-clp-german)`  |   6.4B |  
-| `[bloom-1b5-clp-german](https://huggingface.co/malteos/bloom-1b5-clp-german)`  |   1.5B |  
-| `[gpt2-xl-wechsel-german](https://huggingface.co/malteos/gpt2-xl-wechsel-german)`  |   1.5B |  
-| `[gpt2-xl-german-covid-19](https://huggingface.co/malteos/gpt2-xl-german-covid-19)`  |   1.5B |  
+| [`bloom-6b4-clp-german`](https://huggingface.co/malteos/bloom-6b4-clp-german)`  |   6.4B |  
+| [`bloom-1b5-clp-german`](https://huggingface.co/malteos/bloom-1b5-clp-german)`  |   1.5B |  
+| [`gpt2-xl-wechsel-german`](https://huggingface.co/malteos/gpt2-xl-wechsel-german)`  |   1.5B |  
+| [`gpt2-xl-german-covid-19`](https://huggingface.co/malteos/gpt2-xl-german-covid-19)`  |   1.5B |  
 
 
 ## Usage
